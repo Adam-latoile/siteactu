@@ -1,0 +1,86 @@
+{
+    "gazette": {
+      "titreGazette": "GARDEN NEWS",
+      "slogan": "The Best News for the Gnome in You! 🌱✨",
+      "invitationAbonnement": "Abonnez-vous pour découvrir l'univers des nains de jardin et comment les intégrer à votre espace extérieur",
+      "articleVedette": {
+        "enTete": "Trouver le nain de jardin parfait pour chaque ambiance",
+        "resume": "Découvrez les différents styles de nains de jardin et apprenez à choisir celui qui correspond le mieux à votre jardin.",
+        "datePublication": "1er Décembre 2024",
+        "categorie": "Décoration et entretien",
+        "illustration": "images/Mankini_Gnome.webp"
+      },
+      "articlesSecondaires": [
+        {
+          "titreArticle": "Entretenir ses nains de jardin : Conseils pour une longue vie au grand air",
+          "datePublication": "28 Novembre 2024",
+          "categorie": "Entretien",
+          "illustration": "images/nain_entretien.png"
+        },
+        {
+          "titreArticle": "Nains modernes vs traditionnels : Avantages et différences",
+          "datePublication": "20 Novembre 2024",
+          "categorie": "Styles de nains",
+          "illustration": "images/nain_modernes.png"
+        },
+        {
+          "titreArticle": "Nains de voyage : Emmenez la magie avec vous",
+          "datePublication": "15 Novembre 2024",
+          "categorie": "Décoration de voyage",
+          "illustration": "images/nain_voyage.png"
+        },
+        {
+          "titreArticle": "L'histoire des nains de jardin : De la tradition allemande à aujourd'hui",
+          "datePublication": "10 Novembre 2024",
+          "categorie": "Culture et histoire",
+          "illustration": "images/nain_histoire.png"
+        },
+        {
+          "titreArticle": "Les nains de jardin dans le monde : Symboles et traditions locales",
+          "datePublication": "5 Novembre 2024",
+          "categorie": "Culture et traditions",
+          "illustration": "images/nain_culture.png"
+        }
+      ],
+      "categories": [
+        {
+          "nomCategorie": "Décoration et entretien",
+          "descriptionCategorie": "Astuces pour bien choisir et entretenir vos nains de jardin au fil des saisons."
+        },
+        {
+          "nomCategorie": "Styles de nains",
+          "descriptionCategorie": "Les différentes tendances et styles de nains de jardin disponibles."
+        },
+        {
+          "nomCategorie": "Décoration de voyage",
+          "descriptionCategorie": "Nains de jardin compacts pour voyager ou décorer en déplacement."
+        },
+        {
+          "nomCategorie": "Culture et histoire",
+          "descriptionCategorie": "Les origines et l'évolution des nains de jardin dans diverses cultures."
+        },
+        {
+          "nomCategorie": "Entretien",
+          "descriptionCategorie": "Les meilleures pratiques pour préserver la couleur et la solidité des nains de jardin."
+        }
+      ],
+      "auteurs": [
+        {
+          "prenomAuteur": "Claire",
+          "expertise": "Paysagiste et décoratrice extérieure",
+          "bio": "Spécialiste de la décoration de jardin, je partage mes conseils pour intégrer harmonieusement les nains de jardin."
+        },
+        {
+          "prenomAuteur": "David",
+          "expertise": "Sculpteur de figurines de jardin",
+          "bio": "Passionné par les objets d'extérieur, je vous aide à comprendre les différents styles et matériaux des nains de jardin."
+        },
+        {
+          "prenomAuteur": "Isabelle",
+          "expertise": "Historienne des arts de jardin",
+          "bio": "J'explore l'histoire fascinante des nains de jardin et leur symbolique à travers les âges."
+        }
+      ]
+    }
+  }
+      
