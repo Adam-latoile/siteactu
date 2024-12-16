@@ -8,38 +8,38 @@
         "resume": "Découvrez les différents styles de nains de jardin et apprenez à choisir celui qui correspond le mieux à votre jardin.",
         "datePublication": "1er Décembre 2024",
         "categorie": "Décoration et entretien",
-        "illustration": "images/Mankini_Gnome.webp"
+        "illustration": "images/gardennews.webp"
       },
       "articlesSecondaires": [
         {
           "titreArticle": "Entretenir ses nains de jardin : Conseils pour une longue vie au grand air",
           "datePublication": "28 Novembre 2024",
           "categorie": "Entretien",
-          "illustration": "images/nain_entretien.png"
+          "illustration": "images/nainpropre.webp"
         },
         {
           "titreArticle": "Nains modernes vs traditionnels : Avantages et différences",
           "datePublication": "20 Novembre 2024",
           "categorie": "Styles de nains",
-          "illustration": "images/nain_modernes.png"
+          "illustration": "images/laguerredesnains.webp"
         },
         {
           "titreArticle": "Nains de voyage : Emmenez la magie avec vous",
           "datePublication": "15 Novembre 2024",
           "categorie": "Décoration de voyage",
-          "illustration": "images/nain_voyage.png"
+          "illustration": "images/naindevoyage2.webp"
         },
         {
           "titreArticle": "L'histoire des nains de jardin : De la tradition allemande à aujourd'hui",
           "datePublication": "10 Novembre 2024",
           "categorie": "Culture et histoire",
-          "illustration": "images/nain_histoire.png"
+          "illustration": "images/germanain.webp"
         },
         {
           "titreArticle": "Les nains de jardin dans le monde : Symboles et traditions locales",
           "datePublication": "5 Novembre 2024",
           "categorie": "Culture et traditions",
-          "illustration": "images/nain_culture.png"
+          "illustration": "images/nainunited.webp"
         }
       ],
       "categories": [
@@ -64,18 +64,25 @@
           "descriptionCategorie": "Les meilleures pratiques pour préserver la couleur et la solidité des nains de jardin."
         }
       ],
+      
+      "entete": 
+        {"enTete":"DECOUVREZ NOTRE EQUIPE"},
+      
       "auteurs": [
-        {
+        { 
+          "illustration": "images/deoratricenain.webp",
           "prenomAuteur": "Claire",
           "expertise": "Paysagiste et décoratrice extérieure",
           "bio": "Spécialiste de la décoration de jardin, je partage mes conseils pour intégrer harmonieusement les nains de jardin."
         },
         {
+          "illustration": "images/sculteurnain.webp",
           "prenomAuteur": "David",
           "expertise": "Sculpteur de figurines de jardin",
           "bio": "Passionné par les objets d'extérieur, je vous aide à comprendre les différents styles et matériaux des nains de jardin."
         },
         {
+          "illustration": "images/prodesnaingui.webp",
           "prenomAuteur": "Isabelle",
           "expertise": "Historienne des arts de jardin",
           "bio": "J'explore l'histoire fascinante des nains de jardin et leur symbolique à travers les âges."
